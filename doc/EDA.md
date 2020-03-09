@@ -1,2 +1,12 @@
-# titanic
-signateコンペ
+EDA
+===
+
+## Info
+
+## Uni
+
+### cat
+
+### num
+
+## Multi
